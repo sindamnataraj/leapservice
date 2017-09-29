@@ -1,0 +1,31 @@
+
+
+.pull-right {
+    float: right;
+}
+
+.pull-left {
+    float:left;
+}
+
+.mr20 {
+    margin-right:20px;
+}
+
+.link-reset {
+    text-decoration: none;
+    color: #565a5c;
+}
+
+.link-reset:hover {
+    color: #ff5a5f;
+}
+
+.menu-font {
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+}
+
+.menu-padding {
+    padding:15px 0 0;
+}

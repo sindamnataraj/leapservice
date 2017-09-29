@@ -1,0 +1,44 @@
+@media (max-width: 767px) {
+    /* On small screens, the nav menu spans the full width of the screen. Leave a space for it. */
+    .body-content {
+        padding-top: 50px;
+    }
+}
+
+.footer {
+    color: #fff;
+    background-color: #00BDDE;
+    padding-top: 0;
+    border-top: none;
+}
+
+.stick-bottom {
+    position: absolute;
+    bottom: 0;
+}
+
+.link-reset {
+    text-decoration: none;
+}
+
+.standard-font {
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+}
+
+.mb15{
+    margin-bottom:15px;
+}
+
+.bold-text {
+    font-weight:bold;
+}
+
+.row-condensed {
+    margin-left: -6.25px;
+    margin-right: -6.25px;
+}
+
+.text-kazan {
+    color: #007a87;
+}

@@ -1,0 +1,37 @@
+.body-margins {
+    margin-left:30px;
+}
+
+.standard-font {
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+}
+.resource-row-link {
+    color: #1a2326;
+    border: 1px solid transparent;
+    margin: 0;
+    padding: 16px 23px 16px 23px;
+    position: relative;
+    text-decoration: none;
+    transition: all .3s;
+    display: block;
+}
+
+.resource-row-link:hover {
+    color: #1a2326;
+    text-decoration: none;
+    border-color: #2b85e7;
+    border-radius: 4px;
+    box-shadow: 0 8px 8px rgba(1,67,163,.24), 0 0 8px rgba(1,67,163,.12), 0 6px 18px rgba(43,133,231,.12);
+    -webkit-transform: translateY(-2px);
+    transform: translateY(-2px);
+}
+
+.l-flex-column {
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+}
+
