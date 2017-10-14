@@ -23,9 +23,18 @@
 
 .menu-font {
     font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 16px;
+    font-size: 14px;
 }
 
 .menu-padding {
     padding:15px 0 0;
+}
+
+.logoImage {
+    height:65px;
+}
+
+.menu-vertical {
+    padding-top:15px;
+    padding-bottom:15px;
 }
