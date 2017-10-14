@@ -1,3 +1,21 @@
-.body-margins {
-    margin-left:30px;
+
+.margins-horizontal {
+    margin-left:25px;
+    margin-right:25px;
+}
+
+
+.blog-heading-standard-font {
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 18.5px;
+    color: #f32153;
+}
+
+.blog-standard-font {
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 17px;
+}
+.blog-footer-font {
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 10px;
 }
