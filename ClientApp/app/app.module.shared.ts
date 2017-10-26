@@ -9,6 +9,7 @@ import { NavMenuComponent } from './components/navmenu/navmenu.component';
 import { HomeComponent } from './components/home/home.component';
 import { ContactComponent } from './components/contact/contact.component';
 import { BlogComponent } from './components/blog/blog.component';
+import { ServicesComponent } from './components/services/services.component';
 
 @NgModule({
     declarations: [
@@ -16,7 +17,8 @@ import { BlogComponent } from './components/blog/blog.component';
         NavMenuComponent,
         HomeComponent,
         ContactComponent,
-        BlogComponent
+        BlogComponent,
+        ServicesComponent
     ],
     imports: [
         CommonModule,
@@ -28,6 +30,7 @@ import { BlogComponent } from './components/blog/blog.component';
             { path: 'counter', component: BlogComponent },
             { path: 'contact', component: ContactComponent },
             { path: 'blog', component: BlogComponent },
+            { path: 'services', component: ServicesComponent },
             { path: '**', redirectTo: 'home' }
         ])
     ]

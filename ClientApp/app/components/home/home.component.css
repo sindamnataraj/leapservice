@@ -8,6 +8,12 @@
     color: #82888a;
 }
 
+.quote-source-font {
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    color: #f32153;
+}
+
 .resource-row-link {
     color: #1a2326;
     border: 1px solid transparent;

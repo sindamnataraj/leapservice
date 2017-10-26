@@ -1,4 +1,4 @@
-.body-margins {
+/*.body-margins {
     margin-left:30px;
 }
 .make-inline {
@@ -39,4 +39,28 @@
 .contact-structure {
     min-height: 700px;
     margin-top: 50px;
+}*/
+
+.heading-standard-font {
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 17px;
+    color: #f32153;
+}
+
+.secondary-heading-standard-font {
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 17px;
+    color: #f32153;
+}
+
+.standard-font {
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    color: #82888a;
+}
+
+.service-image {
+    width: 30px;
+    height: 30px;
+    margin: 5px;
 }
